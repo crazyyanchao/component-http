@@ -1,5 +1,5 @@
 /*
- *  Copyright 2008 biaoping.yin
+ *  Copyright 2008
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -34,7 +34,7 @@ import java.util.Map;
  * </p>
  * 
  * @Date 2014年4月9日 上午10:02:37
- * @author biaoping.yin
+ * @author
  * @version 1.0
  */
 public class HttpReqeust {

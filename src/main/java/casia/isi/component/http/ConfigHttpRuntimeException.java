@@ -1,5 +1,5 @@
 /*
- *  Copyright 2008 biaoping.yin
+ *  Copyright 2008
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ package casia.isi.component.http;
  * <p>bboss workgroup</p>
  * <p>Copyright (c) 2007</p>
  * @Date 2010-9-16 下午12:33:15
- * @author biaoping.yin
+ * @author
  * @version 1.0
  */
 public class ConfigHttpRuntimeException extends HttpRuntimeException {

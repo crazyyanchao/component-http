@@ -1,6 +1,6 @@
 package casia.isi.component.http;
 /**
- * Copyright 2008 biaoping.yin
+ * Copyright 2008
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ import java.util.List;
  * <p></p>
  * <p>Copyright (c) 2018</p>
  * @Date 2019/6/19 21:38
- * @author biaoping.yin
+ * @author
  * @version 1.0
  */
 public class DemoHttpHostDiscover1 extends HttpHostDiscover {

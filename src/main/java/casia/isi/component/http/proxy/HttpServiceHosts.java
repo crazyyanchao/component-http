@@ -1,6 +1,6 @@
 package casia.isi.component.http.proxy;
 /**
- * Copyright 2008 biaoping.yin
+ * Copyright 2008
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -34,7 +34,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * <p></p>
  * <p>Copyright (c) 2018</p>
  *
- * @author biaoping.yin
+ * @author
  * @version 1.0
  * @Date 2019/6/17 19:08
  */
