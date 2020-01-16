@@ -123,8 +123,8 @@ public abstract class HttpHostDiscover extends Thread {
 				}
 				if( handleNullOrEmptyHostsByDiscovery == null || !handleNullOrEmptyHostsByDiscovery) {
 					if (logger.isInfoEnabled())
-						logger.info(new StringBuilder().append("Discovery ")
-								.append(httpServiceHosts.getClientConfiguration().getBeanName()).append(" servers : ignore with httpHosts == null || httpHosts.size() == 0").toString());
+//						logger.info(new StringBuilder().append("Discovery ")
+//								.append(httpServiceHosts.getClientConfiguration().getBeanName()).append(" servers : ignore with httpHosts == null || httpHosts.size() == 0").toString());
 					return;
 				}
 			}
